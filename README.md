@@ -4,6 +4,22 @@
 
 "W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round."
 
+## Resources
+### Data Source 
+- 
+
+### Software
+- Python 3.7.6
+- Conda 4.13.0
+- Visual Studio Code 1.69
+- Dependencies:
+  - Python JSON Library
+  - Python Pandas Library
+  - Python Numpy Library
+  - sqlalchemy Module 
+  - psycopg2 Module
+
+
 ## Results 
 
 ### Deliverable 1: Determine the Summary Statistics for June
