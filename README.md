@@ -6,12 +6,14 @@
 
 ## Resources
 ### Data Source 
-- hawaii.sqlite database []()
+- [hawaii.sqlite]() database
 
 ### Software
 - Python 3.7.6
 - Conda 4.13.0
 - Visual Studio Code 1.69
+- SQLite and SQLAlchemy
+- Jupyter Notebook
 - Dependencies:
   - Python JSON Library
   - Python Pandas Library
@@ -56,9 +58,20 @@ Summary statistics were generated for the DataFrame:
 To better understand the difference in temperature between the two months, each month was plotted on a histogram:
 <br /> ![image](https://user-images.githubusercontent.com/108038989/187011347-07cebeb5-4251-40d6-9c48-5c85e51e94e2.png)![image](https://user-images.githubusercontent.com/108038989/187011389-1351cb99-4a6e-4eca-93ff-51be04ed955f.png)
 
-- ?
-- ?
-- ?
+- The average temperature in June is roughly 75 while the average temperature in December is roughly 71. The difference in these temperatures is almost 4 degrees. June has a smaller standard deviation than December, so most of their data is centered around 75 degrees in June while only a small portion of the data in centered around 71 degrees in December. 
+- The maximum temperature in June is 85 while the maximum temperature in December is 83. The difference in temperature is 2 degrees. The max temperature in June was closer to its average temperature than in December. 
+- The minimum temperature in June is 64 while the minimum temperature in December is 56. The difference in these temperatures is 8 degrees. December has more temperatures near their minimum than June, which means that temperatures are lower more in December than June. 
 
 ## Summary
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+Based on the summary statistics generated, the difference in metrics between June and December temperatures are minimal. However, December has almost 200 less reported temperatures than June. June has a smaller standard deviation than December, which means it has less variability in its temperatures and has more days around warmer weather. 
+
+Two additional queries that we can perform to gather more weather data for June and December in to collect the summary statistics for precipitation data. 
+The following code describes the working query to retrieve the June precipitation summary statistics from the date column of the Measurement table:
+
+
+The following code describes the working query to retrieve the December precipitation summary statistics from the date column of the Measurement table:
+
+
+
+
+
