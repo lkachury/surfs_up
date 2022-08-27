@@ -67,8 +67,8 @@ Based on the summary statistics generated, the difference in metrics between Jun
 
 Two additional queries that we can perform to gather more weather data for June and December is to collect the summary statistics for precipitation data.
 
-The following code describes the working query to retrieve the June precipitation summary statistics from the date column of the Measurement table:
+The following code describes the working query to retrieve the June precipitation summary statistics:
 <br /> ![image](https://user-images.githubusercontent.com/108038989/187013894-730d1647-9139-4b01-8923-0ec887e6f91e.png)
 
-The following code describes the working query to retrieve the December precipitation summary statistics from the date column of the Measurement table:
+The following code describes the working query to retrieve the December precipitation summary statistics:
 <br /> ![image](https://user-images.githubusercontent.com/108038989/187013927-4d4e0e53-7bd5-48a0-8122-f6bdf5dc41ca.png)
