@@ -6,7 +6,7 @@
 
 ## Resources
 ### Data Source 
-- [hawaii.sqlite]() database
+- [hawaii.sqlite](https://github.com/lkachury/surfs_up/blob/main/hawaii.sqlite) database file
 
 ### Software
 - Python 3.7.6
