@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Overview
-W. Avy is an investor in a new Surf n'Shake shop, serving surfboards and ice cream to locals and tourists in Oahu, Hawaii. The purpose of this analysis is to gather temperature data for the months of June and December in Oahu, to determine if this business venture is sustainable year-round.
+W. Avy is an investor in a new Surf n'Shake shop, serving surfboards and ice cream to locals and tourists in Oahu, Hawaii. The purpose of this analysis is to gather temperature data for the months of June and December in Oahu, to determine if this business venture is sustainable year-round based on weather criteria.
 
 ## Resources
 ### Data Source 
