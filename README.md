@@ -37,19 +37,25 @@ The list of June temperatures was converted to a Pandas DataFrame:
 Summary statistics were generated for the DataFrame: 
 <br /> ![image](https://user-images.githubusercontent.com/108038989/187010464-4bfc3c80-48e9-4f36-87c9-dceaf343b928.png)
 
-
-
 ### Deliverable 2: Determine the Summary Statistics for December
 Using Python, Pandas functions and methods, and SQLAlchemy, the date column of the Measurements table in the hawaii.sqlite database was filtered to retrieve all the temperatures for the month of December, the December temperatures were converted to a list, a DataFrame was created from the list, and the summary statistics were generated.
 
-- A working query is written to retrieve the December temperatures from the date column of the Measurement table (10 pt)
-- The temperatures are added to a list. (10 pt)
-- The list of temperatures is converted to a Pandas DataFrame. (10 pt)
-- Summary statistics are generated for the DataFrame. (10 pt)
+A working query was written to retrieve the December temperatures from the date column of the Measurement table: 
+<br /> ![image](https://user-images.githubusercontent.com/108038989/187010929-d6956f7a-dfd3-4df6-96cf-cdcfb7902933.png)
 
+The December temperatures were added to a list: 
+<br /> ![image](https://user-images.githubusercontent.com/108038989/187010967-82d88eb4-7af8-4ff5-b6ca-09a8f0e36ad4.png)
 
-There is a bulleted list that addresses the three key differences in weather between June and December.
+The list of December temperatures was converted to a Pandas DataFrame: 
+<br /> ![image](https://user-images.githubusercontent.com/108038989/187010980-db1c51cb-c412-40d8-aaeb-9cd4ece93e94.png)
 
+Summary statistics were generated for the DataFrame:
+<br /> ![image](https://user-images.githubusercontent.com/108038989/187010991-c38bae50-b2d3-48f8-95df-1706a34d7d34.png)
+
+Three key differences in weather between June and December:
+- ?
+- ?
+- ?
 
 ## Summary
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
