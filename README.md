@@ -60,7 +60,7 @@ To better understand the difference in temperature between the two months, each 
 
 - The average temperature in June is roughly 75 while the average temperature in December is roughly 71. The difference in these temperatures is almost 4 degrees. June has a smaller standard deviation than December, so most of their data is centered around 75 degrees in June while only a small portion of the data in centered around 71 degrees in December. 
 - The maximum temperature in June is 85 while the maximum temperature in December is 83. The difference in temperature is 2 degrees. The max temperature in June was closer to its average temperature than in December. 
-- The minimum temperature in June is 64 while the minimum temperature in December is 56. The difference in these temperatures is 8 degrees. December has more temperatures near their minimum than June, which means that temperatures are lower more in December than June. 
+- The minimum temperature in June is 64 while the minimum temperature in December is 56. The difference in these temperatures is 8 degrees. December has more temperatures near their minimum than June, which means that temperatures are lower more in December than in June. 
 
 ## Summary
 Based on the summary statistics generated, the difference in metrics between June and December temperatures are minimal. However, December has almost 200 less reported temperatures than June. June has a smaller standard deviation than December, which means it has less variability in its temperatures and has more days around warmer weather. 
