@@ -22,7 +22,7 @@
   - psycopg2 Module
 
 ## Results 
-The full Jupyter Notebook for these deliverables can be referenced here: [SurfsUp_Challenge.ipynb]()
+The full Jupyter Notebook for these deliverables can be referenced here: [SurfsUp_Challenge.ipynb](https://github.com/lkachury/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 ### Deliverable 1: Determine the Summary Statistics for June
 Using Python, Pandas functions and methods, and SQLAlchemy, the date column of the Measurements table in the hawaii.sqlite database was filtered to retrieve all the temperatures for the month of June, the June temperatures were converted to a list, a DataFrame was created from the list, and the summary statistics were generated.
