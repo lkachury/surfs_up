@@ -52,7 +52,10 @@ The list of December temperatures was converted to a Pandas DataFrame:
 Summary statistics were generated for the DataFrame:
 <br /> ![image](https://user-images.githubusercontent.com/108038989/187010991-c38bae50-b2d3-48f8-95df-1706a34d7d34.png)
 
-Three key differences in weather between June and December:
+### Three key differences in weather between June and December
+To better understand the difference in temperature between the two months, each month was plotted on a histogram:
+<br /> ![image](https://user-images.githubusercontent.com/108038989/187011347-07cebeb5-4251-40d6-9c48-5c85e51e94e2.png)![image](https://user-images.githubusercontent.com/108038989/187011389-1351cb99-4a6e-4eca-93ff-51be04ed955f.png)
+
 - ?
 - ?
 - ?
